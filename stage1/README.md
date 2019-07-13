@@ -11,4 +11,5 @@
 - [Background photo by Diego PH on Unsplash](https://unsplash.com/photos/5LOhydOtTKU)
 
 ## 相關連結
-[題目](https://challenge.thef2e.com/news/12)
+- [題目](https://challenge.thef2e.com/news/12)
+- [線上預覽](https://rogeraabbccdd.github.io/F2E-2019/stage1/#/)
