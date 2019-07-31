@@ -1,9 +1,13 @@
 # 第三關 - MP3 Player
+有些很重要的素材設計稿並沒有提供像是閃電效果和部分icon  
+雖然沒做完，不過已經在這關花了兩天的時間，所以就先投稿，去忙別的事了  
+   
 ![screenshot](./screenshot.png)
 
 ## 使用技術
 - [Vue CLI](https://cli.vuejs.org/)
 - [BootstrapVue](https://bootstrap-vue.js.org/)
+- [Vuex](https://vuex.vuejs.org/)
 - Progressive Web Application
 
 ## 相關連結
