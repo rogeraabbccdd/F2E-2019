@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="25" viewBox="0 0 24 25">
+  <g id="step3" transform="translate(-846 -94)">
+    <g id="border" transform="translate(846 95)" fill="none" stroke="#303133" stroke-miterlimit="10" stroke-width="1.5">
+      <circle cx="12" cy="12" r="12" stroke="none"/>
+      <circle cx="12" cy="12" r="11.25" fill="none"/>
+    </g>
+    <text id="_4" data-name="4" transform="translate(857.5 113)" fill="#303133" font-size="16" font-family="NotoSansTC-Regular, Noto Sans TC"><tspan x="-4.44" y="0">3</tspan></text>
+  </g>
+</svg>
